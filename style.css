@@ -1,0 +1,16 @@
+.card{
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: blue;
+    color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tiles{
+    display: flex;
+    /* justify-content: space-evenly; */
+}
